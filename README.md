@@ -1,4 +1,4 @@
-Depth-first-search--in-Java-
+DepthFirstSearch
 ============================
 
-Depth-first search algorithm in Java
+A depth-first search algorithm in Java.
